@@ -1,5 +1,4 @@
-# Machine Learning Engineer Nanodegree
-# Unsupervised Learning
+#  Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
 ## Project Overview
